@@ -16,10 +16,8 @@ Autorzy: Bajura Michał, Baranowska Julia, Dymek Małgorzata, Fejtko Julia, Gibu
 
 Użyj komend:
 
-'''
-$ conda install
-$ pip install
-'''
+conda install
+pip install
 
 ### Pobieranie
 Aby móc korzystać z aplikacji pobierz repozytorium i rozpakuj ***do jednego folderu***
