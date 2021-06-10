@@ -64,9 +64,9 @@ if active_tab == zak1:
 
 elif active_tab == zak2:
     
-    fpath = r'C:\Users\Mirka\OneDrive\Pulpit\PajczarmProdżekts\Slowniczekint.xlsx'
-    if not os.path.exists(fpath):
-        raise Exception('O nie! Wygląda na to, że plik z danymi nie został odnaleziony: %s' %fpath)
+    fpath = 'Slowniczekint.xlsx'
+    #if not os.path.exists(fpath):
+    #    raise Exception('O nie! Wygląda na to, że plik z danymi nie został odnaleziony: %s' %fpath)
             
     tabela = pd.ExcelFile(fpath, engine='openpyxl')
     names = tabela.sheet_names
@@ -137,9 +137,9 @@ elif active_tab == zak3:
 
     
 elif active_tab == zak4:
-    file = r'C:\Users\Mirka\OneDrive\Pulpit\PajczarmProdżekts\worldcities.xlsx'
-    if not os.path.exists(file):
-        raise Exception('O nie! Wygląda na to, że plik z danymi nie został odnaleziony: %s' %file)
+    file = 'worldcities.xlsx'
+    #if not os.path.exists(file):
+    #    raise Exception('O nie! Wygląda na to, że plik z danymi nie został odnaleziony: %s' %file)
     df = pd.read_excel (file, sheet_name='Sheet1')
     lista_miast = list((df['city']))
     
@@ -228,9 +228,9 @@ elif active_tab == zak4:
                 st.write('Średni czas lotu samolotem:')
                 st.write(godzina, 'h', minuty, 'm', sekundy, 's')
 elif active_tab == zak5:
-    fppath = r'C:\Users\Mirka\OneDrive\Pulpit\PajczarmProdżekts\Panstwa.xlsx'
-    if not os.path.exists(fppath):
-        raise Exception('O nie! Wygląda na to, że plik z danymi nie został odnaleziony: %s' %fppath)
+    fppath = 'Panstwa.xlsx'
+    #if not os.path.exists(fppath):
+    #    raise Exception('O nie! Wygląda na to, że plik z danymi nie został odnaleziony: %s' %fppath)
     
     tabelap = pd.ExcelFile(fppath, engine='openpyxl')
     namesp = tabelap.sheet_names
