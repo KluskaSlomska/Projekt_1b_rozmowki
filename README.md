@@ -14,4 +14,4 @@ Autorzy: Bajura Michał, Baranowska Julia, Dymek Małgorzata, Fejtko Julia, Gibu
 * currency_converter
 
 ### Pobieranie
-Aby móc korzystać z aplikacji pobierz repozytorium i rozpakuj **do jednego folderu**
+Aby móc korzystać z aplikacji pobierz repozytorium i rozpakuj ***do jednego folderu***
