@@ -3,22 +3,10 @@ Projekt obejmuje rozmówki, przelicznik walut, ciekawostki na temat państw Unii
 
 # Zawartość
 
-* [Autorzy](#autorzy)
 * [Biblioteki](#biblioteki)
 * [Pobieranie](#pobieranie)
 * [Instrukcja](#instrukcja)
-
-## Autorzy
-
-* Bajura Michał
-* Baranowska Julia
-* Dymek Małgorzata
-* Fejtko Julia
-* Gibuła Angelika
-* Gira Paulina
-* Kwiecień Piotr
-* Warulik Mirosława
-* Zmorzyński Michał
+* [Autorzy](#autorzy)
 
 ## Biblioteki
 
@@ -56,4 +44,16 @@ streamlit run Projektinfa2spajder.py
 ```
 4) Po chwili w przeglądarce otworzy się aplikacja
 
+
+## Autorzy
+
+* Bajura Michał
+* Baranowska Julia
+* Dymek Małgorzata
+* Fejtko Julia
+* Gibuła Angelika
+* Gira Paulina
+* Kwiecień Piotr
+* Warulik Mirosława
+* Zmorzyński Michał
 
