@@ -1,5 +1,5 @@
 # Projekt_1b_rozmowki
-Projekt obejmuje 
+Projekt obejmuje rozmówki, przelicznik walut, ciekawostki na temat państw Unii Europejskiej (i nie tylko) oraz odległość pomiędzy wybranymi miastami.\n
 Autorzy: Bajura Michał, Baranowska Julia, Dymek Małgorzata, Fejtko Julia, Gibuła Angelika, Gira Paulina, Kwiecień Piotr, Warulik Mirosława, Zmorzyński Michał
 
 ## Biblioteki (setup)
