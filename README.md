@@ -18,9 +18,6 @@ Użyj komend:
 
 '''
 $ conda install
-'''
-lub
-'''
 $ pip install
 '''
 
