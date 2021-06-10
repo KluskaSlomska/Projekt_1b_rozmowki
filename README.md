@@ -45,4 +45,15 @@ pip install
 Aby móc korzystać z aplikacji pobierz repozytorium i rozpakuj ***do jednego folderu***
 
 ## Instrukcja
+1) Otwórz Anaconda Prompt
+2) Wpisz
+```
+cd [śceżka do folderu z zawartością repozytorium]
+```
+3) Następnie wpisz:
+```
+streamlit run Projektinfa2spajder.py
+```
+4) Po chwili w przeglądarce otworzy się aplikacja
+
 
