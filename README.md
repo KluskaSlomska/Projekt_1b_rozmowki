@@ -48,7 +48,7 @@ Aby móc korzystać z aplikacji pobierz repozytorium i rozpakuj ***do jednego fo
 1) Otwórz Anaconda Prompt
 2) Wpisz
 ```
-cd [śceżka do folderu z zawartością repozytorium]
+cd [ścieżka do folderu z zawartością repozytorium]
 ```
 3) Następnie wpisz:
 ```
